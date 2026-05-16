@@ -1,0 +1,10 @@
+projects:
+  "cec88b42-b47c-4f1c-bfdf-a882c490a784":
+    repo_name: stellar-sandbox
+    workspace_prefix: STELL
+
+plane_state_map:
+  "cec88b42-b47c-4f1c-bfdf-a882c490a784":
+    open:        "Todo"
+    in_progress: "In Progress"
+    closed:      "Done"

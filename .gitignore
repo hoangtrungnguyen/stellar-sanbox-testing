@@ -1,0 +1,5 @@
+tests/.sync-state.json
+tests/.sync-state.json.tmp
+__pycache__/
+*.pyc
+.worktree/

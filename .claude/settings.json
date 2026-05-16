@@ -1,0 +1,12 @@
+{
+  "enabledPlugins": {
+    "skill-creator@claude-plugins-official": true
+  },
+  "worktree": {
+    "sparsePaths": [],
+    "symlinkDirectories": [
+      "node_modules",
+      ".cache"
+    ]
+  }
+}
